@@ -132,5 +132,10 @@ ANSWER 12:
 Jacob Finley jfinley12 Computer Science 2400, Section 107 All answers in the answers.md file.
 
 ANSWER 13:
-
+ls -a
+.               git-lab               morewhileloops.cc
+..              git-lab-2             numAvg.txt
+a.out           ifstatements.cc       swappingnums.cc     
+compare.cc      inclassactivity.cc    switchstatements.cc 
+datastreams.cc  isLetterAndSandA.cpp  whileloops.cc
 
