@@ -126,4 +126,11 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 ANSWER 10:
+Jacob Finley jfinley12 Computer Science 2400, Section 107 All answers in the answers.md file.
+
+ANSWER 12: 
+Jacob Finley jfinley12 Computer Science 2400, Section 107 All answers in the answers.md file.
+
+ANSWER 13:
+
 
