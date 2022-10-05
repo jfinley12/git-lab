@@ -1,12 +1,19 @@
-
+ANSWER 1: 
 git version 2.25.1
-user.name=Your name
-user.email=Your email
-user.name=Your name
-user.email=Your email
-user.name=Your name
-user.email=Your email
-git config --list
+
+ANSWER 2: 
+user.name=Jacob Finley
+user.email=jf118221@ohio.edu
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/jfinley12/git-lab.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*   
+:
+
+ANSWER 3:
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -52,3 +59,71 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+ANSWER 4: 
+On branch master
+
+            No commits yet
+
+            Untracked files:
+            (use "git add <file>..." to include in what will be committed)
+                    README.md
+                    answers.md
+
+            nothing added to commit but untracked files present (use "git add" to track)
+            
+ANSWER 5: 
+On branch master
+
+            No commits yet
+
+            Changes to be committed:
+            (use "git rm --cached <file>..." to unstage)
+                    new file:   README.md
+
+            Untracked files:
+            (use "git add <file>..." to include in what will be committed)
+                    answers.md
+                    
+ANSWER 6:
+ On branch master
+
+            No commits yet
+
+            Changes to be committed:
+            (use "git rm --cached <file>..." to unstage)
+                    new file:   README.md
+                    new file:   answers.md
+ANSWER 7: 
+[master (root-commit) c1a8b4c] Initial commit
+            2 files changed, 55 insertions(+)
+            create mode 100644 README.md
+            create mode 100644 answers.md
+ANSWER 8:
+commit c1a8b4c50906ef5a33aeca5b97effc6e3cbcac86 (HEAD -> master)
+            Author: Jacob Finley <jf118221@ohio.edu>
+    On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")        Date:   Wed Sep 21 20:31:07 2022 -0400
+            
+ANSWER 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+ANSWER 10:
+
